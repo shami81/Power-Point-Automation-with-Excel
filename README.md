@@ -57,7 +57,7 @@ pptPres.Close
 ├── 📄 Sample_Data.xlsm        # Excel file containing company data
 ├── 📄 Sample_Presentation.pptx # PowerPoint template
 ├── 📄 README.md               # Project documentation
-└── 📄 VBA_Code.bas            # VBA script file (optional export)
+└── 📄 Export_Data_to_Ppt_Code.bas            # VBA script file (optional export)
 ```
 
 ## Troubleshooting
